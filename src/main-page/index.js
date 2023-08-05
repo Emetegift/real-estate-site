@@ -4,8 +4,9 @@ import Header from "./header";
 
 function App() {
   return (
-    <div className='container'>
-      <Header/>
+    <div className="container">
+      <Header subtitle= "Providing comfortable homes all over the world"/>
+      
       
     </div>
   );
