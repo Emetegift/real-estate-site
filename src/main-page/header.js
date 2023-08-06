@@ -10,7 +10,7 @@ const Header = ({subtitle}) => (
                 <span className="real-homes">RealHomes</span>
             </div>
         </div>
-        <div className="col-md-7 mt-1 subtitle" style={{ color: "orange" }}>
+        <div className="col-md-7 mt-4 subtitle" style={{ color: "orange" }}>
             <i>{subtitle}</i>
         </div>
         {/* <div className="col-md-12 mt-0.2">

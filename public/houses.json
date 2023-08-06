@@ -1,9 +1,18 @@
 [
     {
         "id":1,
+        "address":"10 Mountain of kings, Geneva",
+        "country": "Switzerland",
+        "description": "A superb detached victorian property",
+        "price": 90000,
+        "photo": "12345"
+    },
+
+    {
+        "id":1,
         "address":"12 Valley of kings, Geneva",
         "country": "Switzerland",
-        "description": "A sZuperb detached victorian property",
+        "description": "A superb detached victorian property",
         "price": 90000,
         "photo": "277667"
     },
@@ -14,6 +23,44 @@
         "country": "Switzerland",
         "description": "An impressive home",
         "price": 50000,
-        "photo": "462358"
+        "photo": "862358"
+    },
+
+    {
+        "id":2,
+        "address":"233 NY,  New York",
+        "country": "USA",
+        "description": "A property of the united state of america",
+        "price": 90000,
+        "photo": "492358"
+    },
+
+    {
+        "id":2,
+        "address":"19 Road of fiver, Queens",
+        "country": "USA",
+        "description": "Private propertyof Gift in the united state of america",
+        "price": 550000,
+        "photo": "862358"
+    },
+
+    {
+        "id":2,
+        "address":"09 Road Ikeja, Lagos",
+        "country": "Nigeria",
+        "description": "Beautiful home and a comfortable",
+        "price": 60000,
+        "photo": "462323"
+    },
+
+    {
+        "id":2,
+        "address":"55 Old Warri Road, Delta",
+        "country": "Nigeria",
+        "description": "A  home worth living",
+        "price": 70000,
+        "photo": "164558"
     }
 ]
+
+
