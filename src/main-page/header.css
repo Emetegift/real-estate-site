@@ -1,15 +1,17 @@
 
 
 .logo {
-    width: 80px;
-    height: auto;
-    margin-top: 5px;
+    width: 50px;
+    /* height: auto; */
+    /* margin-top: 5px; */
+    /* margin-left: 0px; */
+    margin-left: 5px;
 }
 
 
 .real-homes {
     font-family:  'Helvetica Neue';
-    font-size: 16px; /* Adjust the font size as needed */
+    font-size: 11px; /* Adjust the font size as needed */
     color: #070000; /* Change to your desired color */
     font-weight: bold;
 }

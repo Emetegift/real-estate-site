@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "address":"12 Valley of kings, Geneva",
+        "country": "Switzerland",
+        "description": "A sZuperb detached victorian property",
+        "price": 90000,
+        "photo": "277667"
+    },
+
+    {
+        "id":2,
+        "address":"89 Road of Forks, Bern",
+        "country": "Switzerland",
+        "description": "An impressive home",
+        "price": 50000,
+        "photo": "462358"
+    }
+]
