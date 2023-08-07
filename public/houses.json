@@ -3,22 +3,22 @@
         "id":1,
         "address":"10 Mountain of kings, Geneva",
         "country": "Switzerland",
-        "description": "A superb detached victorian property",
+        "description": "This is a remarkable and standalone Victorian property. It is characterized by its architectural design from the Victorian era, showcasing distinct features and craftsmanship typical of that period. As a detached property, it stands independently without being connected to neighboring structures. This type of house often boasts spacious interiors, unique detailing, and a sense of individuality. 'Superb' implies that the property is of exceptional quality, highlighting its impressive nature and likely luxurious amenities.",
         "price": 90000,
         "photo": "12345"
     },
 
     {
-        "id":1,
+        "id":2,
         "address":"12 Valley of kings, Geneva",
         "country": "Switzerland",
-        "description": "A superb detached victorian property",
-        "price": 90000,
+        "description": "A detached Victorian property that stands as a testament to the architectural style of its era. This residence embodies the unique characteristics and craftsmanship typical of the Victorian period. Its standalone nature provides ample space within, distinct detailing, and a sense of individuality.",
+        "price": 12000,
         "photo": "277667"
     },
 
     {
-        "id":2,
+        "id":3,
         "address":"89 Road of Forks, Bern",
         "country": "Switzerland",
         "description": "An impressive home",
@@ -27,16 +27,16 @@
     },
 
     {
-        "id":2,
+        "id":4,
         "address":"233 NY,  New York",
         "country": "USA",
         "description": "A property of the united state of america",
-        "price": 90000,
+        "price": 430000,
         "photo": "492358"
     },
 
     {
-        "id":2,
+        "id":5,
         "address":"19 Road of fiver, Queens",
         "country": "USA",
         "description": "Private propertyof Gift in the united state of america",
@@ -45,7 +45,7 @@
     },
 
     {
-        "id":2,
+        "id":6,
         "address":"09 Road Ikeja, Lagos",
         "country": "Nigeria",
         "description": "Beautiful home and a comfortable",
@@ -54,7 +54,7 @@
     },
 
     {
-        "id":2,
+        "id":7,
         "address":"55 Old Warri Road, Delta",
         "country": "Nigeria",
         "description": "A  home worth living",

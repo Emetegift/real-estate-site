@@ -29,11 +29,13 @@ function App() {
       return allHouses[randomIndex];
     }
   }, [allHouses]);
+  
+  const header = <Header subtitle="Providing comfortable homes all over the world" />;
 
   return (
     <Router>
       <div className="container">
-        <Header subtitle="Providing comfortable homes all over the world" />
+        {header}
         <Housefilter allHouses={allHouses}/>
         <Routes>
           <Route path="/searchresults/:country" element= {<SearchResults allHouses={allHouses}/>}>
