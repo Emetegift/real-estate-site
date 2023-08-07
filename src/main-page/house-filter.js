@@ -11,9 +11,10 @@ const HouseFilter = ({allHouses}) => {
     : [];
     countries.unshift(null);
     //Declare the function for the onSearchChange i.e the onChange handle
-    const onSearchChange = (e) => {
-        const country = e.target.value //Where e is same as onSearchChange
-        navigate.push(`/searchresults/${country}`);
+    const onSearchChange = (e) => {  
+        const country = e.target.value //Where e is same as onSearchChange and This will extract the value from the handlers
+        // navigate.push(`/searchresults/${country}`);// Previously
+        navigate(`/searchresults/${country}`); // Presently
     }
     return ( 
         <div className="row mt-3">
