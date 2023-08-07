@@ -1,4 +1,6 @@
+import React from 'react';
 import House from'../house';
+import "./featured.css";
 
 const FeaturedHouse = ({house}) => {
     if (house)
@@ -14,3 +16,24 @@ const FeaturedHouse = ({house}) => {
 };
  
 export default FeaturedHouse;
+
+
+
+
+// import React from 'react';
+// import House from '../house';
+// import './featured.css';
+
+// const FeaturedHouse = ({ house }) => {
+//   if (house) {
+//     return (
+//       <div className="featuredHouse">
+//         <h3 className="featuredTitle">Featured House</h3>
+//         <House house={house} />
+//       </div>
+//     );
+//   }
+//   return <div className="noFeaturedHouse">No featured house at this time</div>;
+// };
+
+// export default FeaturedHouse;
